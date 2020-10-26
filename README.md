@@ -1,1 +1,1 @@
-# Ice cream VS waffle
+# binary classifier with CNN
