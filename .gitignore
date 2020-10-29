@@ -1,3 +1,6 @@
 data/
 jupyter_experiments/
 .DS_Store
+__pycache__/
+tensorboard/
+neuralnet.pth
