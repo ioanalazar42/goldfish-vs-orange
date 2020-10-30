@@ -5,7 +5,6 @@ import torch
 
 from datareader import load_test_data
 from neuralnet import NeuralNet
-from timeit import default_timer as timer
 
 MODEL_PATH = 'neuralnet.pth'
 
